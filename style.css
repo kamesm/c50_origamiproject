@@ -1,0 +1,24 @@
+H1 {
+    color: #FFFFFF;
+}
+H1 {
+    border: solid;
+}
+.Heading{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+     
+
+}
+.Images{
+    display: flex;
+    flex-wrap: wrap;   
+}
+
+.origami{
+    border: 2px solid black;
+    margin: 10px;
+    width: 310px;
+    border-radius: 50px;
+}
